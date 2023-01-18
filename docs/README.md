@@ -38,9 +38,7 @@ Una vez terminada la instalación verifique que hayan quedado instalados los arc
 Una vez realizadas las configuraciones necesarias de el componente  ejecutar el comando vtex link dentro de el proyecto, de esta forma se vinculara nuestro componente custom a nuestro proyecto base. Si no hay ningun error la terminal mostrara la siguiente información: info: App linked successfully
 
 ## Dependencies
-
 "itgloberspartnercl.custom-department-search": "0.x"
 
 ## Contributors
-
 Ricardo David Ocampo
